@@ -1,0 +1,112 @@
+[
+  {
+    "company_name": "Stonebrook Fintech",
+    "likely_buyer_role": "Head of Professional Services",
+    "why": "Likely: the company's public description references a hybrid implementation motion and 3 customer-facing document workflow(s) (customer onboarding, training/enablement documents, professional services statements of work), which is typically owned by a head of professional services-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting customer onboarding for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "AI edits onboarding documents directly, in place, instead of the team retyping AI-drafted text into the doc",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Tanglewood HR",
+    "likely_buyer_role": "Director of Onboarding",
+    "why": "Likely: the company's public description references a hybrid implementation motion and 3 customer-facing document workflow(s) (proposal documents, customer onboarding, customer success runbooks), which is typically owned by a director of onboarding-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting proposal documents for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "fast, in-place proposal customization without manually carrying text back from a chat window",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Sparrowdale Compliance",
+    "likely_buyer_role": "Customer Operations Lead",
+    "why": "Probable: the company's public description references a self-serve-plus-CS implementation motion and 2 customer-facing document workflow(s) (recurring QBR decks, professional services statements of work), which is typically owned by a customer operations lead-type role, not by product or marketing.",
+    "buyer_problem": "probable that this role spends recurring time manually editing and reformatting recurring QBR decks for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "targeted section edits for the recurring, mostly-repeated parts of a QBR document",
+    "certainty": "Probable"
+  },
+  {
+    "company_name": "Brightwell Systems",
+    "likely_buyer_role": "Director of Onboarding",
+    "why": "Likely: the company's public description references a high-touch implementation motion and 4 customer-facing document workflow(s) (proposal documents, client-specific process documentation, training/enablement documents, professional services statements of work), which is typically owned by a director of onboarding-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting proposal documents for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "fast, in-place proposal customization without manually carrying text back from a chat window",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Longview Ops",
+    "likely_buyer_role": "Director of Onboarding",
+    "why": "Likely: the company's public description references a self-serve-plus-CS implementation motion and 4 customer-facing document workflow(s) (configuration documents, training/enablement documents, customer success runbooks, implementation guides), which is typically owned by a director of onboarding-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting configuration documents for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "targeted section edits (the 'operation' unit) for config docs that change per customer",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Redwood Retail",
+    "likely_buyer_role": "Customer Operations Lead",
+    "why": "Likely: the company's public description references a hybrid implementation motion and 3 customer-facing document workflow(s) (recurring QBR decks, implementation guides, training/enablement documents), which is typically owned by a customer operations lead-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting recurring QBR decks for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "targeted section edits for the recurring, mostly-repeated parts of a QBR document",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Tanglewood Security",
+    "likely_buyer_role": "Director of Implementation",
+    "why": "Likely: the company's public description references a white-glove implementation motion and 4 customer-facing document workflow(s) (proposal documents, implementation guides, recurring QBR decks, professional services statements of work), which is typically owned by a director of implementation-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting proposal documents for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "fast, in-place proposal customization without manually carrying text back from a chat window",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Northstar Health",
+    "likely_buyer_role": "Customer Operations Lead",
+    "why": "Likely: the company's public description references a high-touch implementation motion and 4 customer-facing document workflow(s) (client-specific process documentation, configuration documents, proposal documents, customer success runbooks), which is typically owned by a customer operations lead-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting client-specific process documentation for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "in-place AI editing for the client-specific sections that change most often",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Tanglewood Retail",
+    "likely_buyer_role": "Head of Professional Services",
+    "why": "Probable: the company's public description references a high-touch implementation motion and 2 customer-facing document workflow(s) (recurring QBR decks, customer onboarding), which is typically owned by a head of professional services-type role, not by product or marketing.",
+    "buyer_problem": "probable that this role spends recurring time manually editing and reformatting recurring QBR decks for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "targeted section edits for the recurring, mostly-repeated parts of a QBR document",
+    "certainty": "Probable"
+  },
+  {
+    "company_name": "Longview Manufacturing",
+    "likely_buyer_role": "Head of Professional Services",
+    "why": "Likely: the company's public description references a hybrid implementation motion and 3 customer-facing document workflow(s) (professional services statements of work, rollout playbooks, training/enablement documents), which is typically owned by a head of professional services-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting professional services statements of work for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "citation fields that survive editing and export, useful for SOW provenance",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Vantage Fintech",
+    "likely_buyer_role": "Director of Onboarding",
+    "why": "Likely: the company's public description references a white-glove implementation motion and 3 customer-facing document workflow(s) (training/enablement documents, implementation guides, professional services statements of work), which is typically owned by a director of onboarding-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting training/enablement documents for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "AI editing the training doc directly rather than producing text that must be pasted in by hand",
+    "certainty": "Likely"
+  }
+]

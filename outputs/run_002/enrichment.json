@@ -1,0 +1,300 @@
+[
+  {
+    "company_name": "Stonebrook Fintech",
+    "records": [
+      {
+        "signal": "customer onboarding",
+        "evidence": "Stonebrook Fintech builds workflow-automation SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer onboarding, training/enablement documents and professional services statements of work for each new customer engagement.",
+        "source_url": "https://stonebrookfintech.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "training/enablement documents",
+        "evidence": "Stonebrook Fintech builds workflow-automation SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer onboarding, training/enablement documents and professional services statements of work for each new customer engagement.",
+        "source_url": "https://stonebrookfintech.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "professional services statements of work",
+        "evidence": "Stonebrook Fintech builds workflow-automation SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer onboarding, training/enablement documents and professional services statements of work for each new customer engagement.",
+        "source_url": "https://stonebrookfintech.example.com",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Stonebrook Fintech builds workflow-automation SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer onboarding, training/enablement documents and professional services statements of work for each new customer engagement.",
+    "onboarding_model": "hybrid",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Tanglewood HR",
+    "records": [
+      {
+        "signal": "proposal documents",
+        "evidence": "Tanglewood HR builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling proposal documents, customer onboarding and customer success runbooks for each new customer engagement.",
+        "source_url": "https://tanglewoodhr.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "customer onboarding",
+        "evidence": "Tanglewood HR builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling proposal documents, customer onboarding and customer success runbooks for each new customer engagement.",
+        "source_url": "https://tanglewoodhr.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "customer success runbooks",
+        "evidence": "Tanglewood HR builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling proposal documents, customer onboarding and customer success runbooks for each new customer engagement.",
+        "source_url": "https://tanglewoodhr.example.com",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Tanglewood HR builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling proposal documents, customer onboarding and customer success runbooks for each new customer engagement.",
+    "onboarding_model": "hybrid",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Sparrowdale Compliance",
+    "records": [
+      {
+        "signal": "recurring QBR decks",
+        "evidence": "Sparrowdale Compliance is a healthtech SaaS company serving 200-500-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces recurring QBR decks and professional services statements of work for new accounts.",
+        "source_url": "https://sparrowdalecompliance.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "professional services statements of work",
+        "evidence": "Sparrowdale Compliance is a healthtech SaaS company serving 200-500-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces recurring QBR decks and professional services statements of work for new accounts.",
+        "source_url": "https://sparrowdalecompliance.example.com",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Sparrowdale Compliance is a healthtech SaaS company serving 200-500-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces recurring QBR decks and professional services statements of work for new accounts.",
+    "onboarding_model": "self-serve-plus-CS",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Brightwell Systems",
+    "records": [
+      {
+        "signal": "proposal documents",
+        "evidence": "Brightwell Systems is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces proposal documents, client-specific process documentation, training/enablement documents and professional services statements of work for new accounts.",
+        "source_url": "https://brightwellsystems.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "client-specific process documentation",
+        "evidence": "Brightwell Systems is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces proposal documents, client-specific process documentation, training/enablement documents and professional services statements of work for new accounts.",
+        "source_url": "https://brightwellsystems.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "training/enablement documents",
+        "evidence": "Brightwell Systems is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces proposal documents, client-specific process documentation, training/enablement documents and professional services statements of work for new accounts.",
+        "source_url": "https://brightwellsystems.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "professional services statements of work",
+        "evidence": "Brightwell Systems is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces proposal documents, client-specific process documentation, training/enablement documents and professional services statements of work for new accounts.",
+        "source_url": "https://brightwellsystems.example.net",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Brightwell Systems is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces proposal documents, client-specific process documentation, training/enablement documents and professional services statements of work for new accounts.",
+    "onboarding_model": "high-touch",
+    "documentation_intensity": "high"
+  },
+  {
+    "company_name": "Longview Ops",
+    "records": [
+      {
+        "signal": "configuration documents",
+        "evidence": "Longview Ops, a vertical SaaS vendor, mentions a customer operations function responsible for configuration documents, training/enablement documents, customer success runbooks and implementation guides across its client base.",
+        "source_url": "https://longviewops.example.org",
+        "confidence": "high"
+      },
+      {
+        "signal": "training/enablement documents",
+        "evidence": "Longview Ops, a vertical SaaS vendor, mentions a customer operations function responsible for configuration documents, training/enablement documents, customer success runbooks and implementation guides across its client base.",
+        "source_url": "https://longviewops.example.org",
+        "confidence": "high"
+      },
+      {
+        "signal": "customer success runbooks",
+        "evidence": "Longview Ops, a vertical SaaS vendor, mentions a customer operations function responsible for configuration documents, training/enablement documents, customer success runbooks and implementation guides across its client base.",
+        "source_url": "https://longviewops.example.org",
+        "confidence": "high"
+      },
+      {
+        "signal": "implementation guides",
+        "evidence": "Longview Ops, a vertical SaaS vendor, mentions a customer operations function responsible for configuration documents, training/enablement documents, customer success runbooks and implementation guides across its client base.",
+        "source_url": "https://longviewops.example.org",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Longview Ops, a vertical SaaS vendor, mentions a customer operations function responsible for configuration documents, training/enablement documents, customer success runbooks and implementation guides across its client base.",
+    "onboarding_model": "self-serve-plus-CS",
+    "documentation_intensity": "high"
+  },
+  {
+    "company_name": "Redwood Retail",
+    "records": [
+      {
+        "signal": "recurring QBR decks",
+        "evidence": "Redwood Retail builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling recurring QBR decks, implementation guides and training/enablement documents for each new customer engagement.",
+        "source_url": "https://redwoodretail.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "implementation guides",
+        "evidence": "Redwood Retail builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling recurring QBR decks, implementation guides and training/enablement documents for each new customer engagement.",
+        "source_url": "https://redwoodretail.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "training/enablement documents",
+        "evidence": "Redwood Retail builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling recurring QBR decks, implementation guides and training/enablement documents for each new customer engagement.",
+        "source_url": "https://redwoodretail.example.com",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Redwood Retail builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling recurring QBR decks, implementation guides and training/enablement documents for each new customer engagement.",
+    "onboarding_model": "hybrid",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Tanglewood Security",
+    "records": [
+      {
+        "signal": "proposal documents",
+        "evidence": "Tanglewood Security is a vertical SaaS company serving 200-500-employee customers, with a white-glove implementation model and a customer success team that repeatedly produces proposal documents, implementation guides, recurring QBR decks and professional services statements of work for new accounts.",
+        "source_url": "https://tanglewoodsecurity.example.co",
+        "confidence": "high"
+      },
+      {
+        "signal": "implementation guides",
+        "evidence": "Tanglewood Security is a vertical SaaS company serving 200-500-employee customers, with a white-glove implementation model and a customer success team that repeatedly produces proposal documents, implementation guides, recurring QBR decks and professional services statements of work for new accounts.",
+        "source_url": "https://tanglewoodsecurity.example.co",
+        "confidence": "high"
+      },
+      {
+        "signal": "recurring QBR decks",
+        "evidence": "Tanglewood Security is a vertical SaaS company serving 200-500-employee customers, with a white-glove implementation model and a customer success team that repeatedly produces proposal documents, implementation guides, recurring QBR decks and professional services statements of work for new accounts.",
+        "source_url": "https://tanglewoodsecurity.example.co",
+        "confidence": "high"
+      },
+      {
+        "signal": "professional services statements of work",
+        "evidence": "Tanglewood Security is a vertical SaaS company serving 200-500-employee customers, with a white-glove implementation model and a customer success team that repeatedly produces proposal documents, implementation guides, recurring QBR decks and professional services statements of work for new accounts.",
+        "source_url": "https://tanglewoodsecurity.example.co",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Tanglewood Security is a vertical SaaS company serving 200-500-employee customers, with a white-glove implementation model and a customer success team that repeatedly produces proposal documents, implementation guides, recurring QBR decks and professional services statements of work for new accounts.",
+    "onboarding_model": "white-glove",
+    "documentation_intensity": "high"
+  },
+  {
+    "company_name": "Northstar Health",
+    "records": [
+      {
+        "signal": "client-specific process documentation",
+        "evidence": "Northstar Health builds compliance SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, configuration documents, proposal documents and customer success runbooks for each new customer engagement.",
+        "source_url": "https://northstarhealth.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "configuration documents",
+        "evidence": "Northstar Health builds compliance SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, configuration documents, proposal documents and customer success runbooks for each new customer engagement.",
+        "source_url": "https://northstarhealth.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "proposal documents",
+        "evidence": "Northstar Health builds compliance SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, configuration documents, proposal documents and customer success runbooks for each new customer engagement.",
+        "source_url": "https://northstarhealth.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "customer success runbooks",
+        "evidence": "Northstar Health builds compliance SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, configuration documents, proposal documents and customer success runbooks for each new customer engagement.",
+        "source_url": "https://northstarhealth.example.com",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Northstar Health builds compliance SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, configuration documents, proposal documents and customer success runbooks for each new customer engagement.",
+    "onboarding_model": "high-touch",
+    "documentation_intensity": "high"
+  },
+  {
+    "company_name": "Tanglewood Retail",
+    "records": [
+      {
+        "signal": "recurring QBR decks",
+        "evidence": "Tanglewood Retail builds workflow-automation SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling recurring QBR decks and customer onboarding for each new customer engagement.",
+        "source_url": "https://tanglewoodretail.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "customer onboarding",
+        "evidence": "Tanglewood Retail builds workflow-automation SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling recurring QBR decks and customer onboarding for each new customer engagement.",
+        "source_url": "https://tanglewoodretail.example.com",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Tanglewood Retail builds workflow-automation SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling recurring QBR decks and customer onboarding for each new customer engagement.",
+    "onboarding_model": "high-touch",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Longview Manufacturing",
+    "records": [
+      {
+        "signal": "professional services statements of work",
+        "evidence": "Longview Manufacturing builds healthtech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling professional services statements of work, rollout playbooks and training/enablement documents for each new customer engagement.",
+        "source_url": "https://longviewmanufacturing.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "rollout playbooks",
+        "evidence": "Longview Manufacturing builds healthtech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling professional services statements of work, rollout playbooks and training/enablement documents for each new customer engagement.",
+        "source_url": "https://longviewmanufacturing.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "training/enablement documents",
+        "evidence": "Longview Manufacturing builds healthtech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling professional services statements of work, rollout playbooks and training/enablement documents for each new customer engagement.",
+        "source_url": "https://longviewmanufacturing.example.com",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Longview Manufacturing builds healthtech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling professional services statements of work, rollout playbooks and training/enablement documents for each new customer engagement.",
+    "onboarding_model": "hybrid",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Vantage Fintech",
+    "records": [
+      {
+        "signal": "training/enablement documents",
+        "evidence": "Vantage Fintech builds workflow-automation SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling training/enablement documents, implementation guides and professional services statements of work for each new customer engagement.",
+        "source_url": "https://vantagefintech.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "implementation guides",
+        "evidence": "Vantage Fintech builds workflow-automation SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling training/enablement documents, implementation guides and professional services statements of work for each new customer engagement.",
+        "source_url": "https://vantagefintech.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "professional services statements of work",
+        "evidence": "Vantage Fintech builds workflow-automation SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling training/enablement documents, implementation guides and professional services statements of work for each new customer engagement.",
+        "source_url": "https://vantagefintech.example.com",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Vantage Fintech builds workflow-automation SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling training/enablement documents, implementation guides and professional services statements of work for each new customer engagement.",
+    "onboarding_model": "white-glove",
+    "documentation_intensity": "medium"
+  }
+]

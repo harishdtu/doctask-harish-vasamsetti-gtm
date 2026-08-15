@@ -1,0 +1,92 @@
+[
+  {
+    "company_name": "Vantage Cloud",
+    "likely_buyer_role": "VP Customer Success",
+    "why": "Likely: the company's public description references a white-glove implementation motion and 3 customer-facing document workflow(s) (recurring QBR decks, proposal documents, customer onboarding), which is typically owned by a vp customer success-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting recurring QBR decks for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "targeted section edits for the recurring, mostly-repeated parts of a QBR document",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Clearwater Robotics",
+    "likely_buyer_role": "Director of Onboarding",
+    "why": "Likely: the company's public description references a self-serve-plus-CS implementation motion and 4 customer-facing document workflow(s) (implementation guides, rollout playbooks, proposal documents, client-specific process documentation), which is typically owned by a director of onboarding-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting implementation guides for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "version history with revert, so implementation guides can be safely mass-updated across accounts",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Redwood Systems",
+    "likely_buyer_role": "Head of Professional Services",
+    "why": "Probable: the company's public description references a hybrid implementation motion and 2 customer-facing document workflow(s) (rollout playbooks, training/enablement documents), which is typically owned by a head of professional services-type role, not by product or marketing.",
+    "buyer_problem": "probable that this role spends recurring time manually editing and reformatting rollout playbooks for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "AI editing directly inside the playbook, removing the copy-paste step between a chat window and the doc",
+    "certainty": "Probable"
+  },
+  {
+    "company_name": "Fieldstone Robotics",
+    "likely_buyer_role": "Customer Operations Lead",
+    "why": "Likely: the company's public description references a hybrid implementation motion and 4 customer-facing document workflow(s) (customer success runbooks, implementation guides, customer onboarding, proposal documents), which is typically owned by a customer operations lead-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting customer success runbooks for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "AI editing directly inside the runbook, so updates don't have to be manually carried in from a chat window (a human still reviews before it reaches a customer)",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Redwood Fintech",
+    "likely_buyer_role": "Director of Onboarding",
+    "why": "Likely: the company's public description references a high-touch implementation motion and 3 customer-facing document workflow(s) (configuration documents, client-specific process documentation, training/enablement documents), which is typically owned by a director of onboarding-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting configuration documents for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "targeted section edits (the 'operation' unit) for config docs that change per customer",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Vantage Robotics",
+    "likely_buyer_role": "Customer Operations Lead",
+    "why": "Probable: the company's public description references a high-touch implementation motion and 2 customer-facing document workflow(s) (rollout playbooks, client-specific process documentation), which is typically owned by a customer operations lead-type role, not by product or marketing.",
+    "buyer_problem": "probable that this role spends recurring time manually editing and reformatting rollout playbooks for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "AI editing directly inside the playbook, removing the copy-paste step between a chat window and the doc",
+    "certainty": "Probable"
+  },
+  {
+    "company_name": "Craterock Systems",
+    "likely_buyer_role": "VP Customer Success",
+    "why": "Likely: the company's public description references a self-serve-plus-CS implementation motion and 4 customer-facing document workflow(s) (configuration documents, professional services statements of work, training/enablement documents, proposal documents), which is typically owned by a vp customer success-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting configuration documents for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "targeted section edits (the 'operation' unit) for config docs that change per customer",
+    "certainty": "Likely"
+  },
+  {
+    "company_name": "Fieldstone Compliance",
+    "likely_buyer_role": "Head of Professional Services",
+    "why": "Probable: the company's public description references a hybrid implementation motion and 2 customer-facing document workflow(s) (configuration documents, rollout playbooks), which is typically owned by a head of professional services-type role, not by product or marketing.",
+    "buyer_problem": "probable that this role spends recurring time manually editing and reformatting configuration documents for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "targeted section edits (the 'operation' unit) for config docs that change per customer",
+    "certainty": "Probable"
+  },
+  {
+    "company_name": "Cobalt Ops",
+    "likely_buyer_role": "VP Customer Success",
+    "why": "Likely: the company's public description references a high-touch implementation motion and 3 customer-facing document workflow(s) (client-specific process documentation, proposal documents, configuration documents), which is typically owned by a vp customer success-type role, not by product or marketing.",
+    "buyer_problem": "likely that this role spends recurring time manually editing and reformatting client-specific process documentation for each new or changing customer, rather than doing that work once.",
+    "switch_trigger": "A visibly growing account load (more customers needing the same documents customized) with no matching growth in headcount -- the point where manual editing stops scaling.",
+    "likely_objection": "We already have a template/process for this",
+    "relevant_superdocs_capability": "in-place AI editing for the client-specific sections that change most often",
+    "certainty": "Likely"
+  }
+]

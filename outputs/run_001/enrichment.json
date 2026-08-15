@@ -1,0 +1,236 @@
+[
+  {
+    "company_name": "Vantage Cloud",
+    "records": [
+      {
+        "signal": "recurring QBR decks",
+        "evidence": "Vantage Cloud builds healthtech SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling recurring QBR decks, proposal documents and customer onboarding for each new customer engagement.",
+        "source_url": "https://vantagecloud.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "proposal documents",
+        "evidence": "Vantage Cloud builds healthtech SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling recurring QBR decks, proposal documents and customer onboarding for each new customer engagement.",
+        "source_url": "https://vantagecloud.example.com",
+        "confidence": "high"
+      },
+      {
+        "signal": "customer onboarding",
+        "evidence": "Vantage Cloud builds healthtech SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling recurring QBR decks, proposal documents and customer onboarding for each new customer engagement.",
+        "source_url": "https://vantagecloud.example.com",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Vantage Cloud builds healthtech SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling recurring QBR decks, proposal documents and customer onboarding for each new customer engagement.",
+    "onboarding_model": "white-glove",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Clearwater Robotics",
+    "records": [
+      {
+        "signal": "implementation guides",
+        "evidence": "Clearwater Robotics builds compliance SaaS tools and runs a self-serve-plus-CS onboarding motion; its professional services team is described as handling implementation guides, rollout playbooks, proposal documents and client-specific process documentation for each new customer engagement.",
+        "source_url": "https://clearwaterrobotics.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "rollout playbooks",
+        "evidence": "Clearwater Robotics builds compliance SaaS tools and runs a self-serve-plus-CS onboarding motion; its professional services team is described as handling implementation guides, rollout playbooks, proposal documents and client-specific process documentation for each new customer engagement.",
+        "source_url": "https://clearwaterrobotics.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "proposal documents",
+        "evidence": "Clearwater Robotics builds compliance SaaS tools and runs a self-serve-plus-CS onboarding motion; its professional services team is described as handling implementation guides, rollout playbooks, proposal documents and client-specific process documentation for each new customer engagement.",
+        "source_url": "https://clearwaterrobotics.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "client-specific process documentation",
+        "evidence": "Clearwater Robotics builds compliance SaaS tools and runs a self-serve-plus-CS onboarding motion; its professional services team is described as handling implementation guides, rollout playbooks, proposal documents and client-specific process documentation for each new customer engagement.",
+        "source_url": "https://clearwaterrobotics.example.net",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Clearwater Robotics builds compliance SaaS tools and runs a self-serve-plus-CS onboarding motion; its professional services team is described as handling implementation guides, rollout playbooks, proposal documents and client-specific process documentation for each new customer engagement.",
+    "onboarding_model": "self-serve-plus-CS",
+    "documentation_intensity": "high"
+  },
+  {
+    "company_name": "Redwood Systems",
+    "records": [
+      {
+        "signal": "rollout playbooks",
+        "evidence": "Redwood Systems builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling rollout playbooks and training/enablement documents for each new customer engagement.",
+        "source_url": "https://redwoodsystems.example.org",
+        "confidence": "high"
+      },
+      {
+        "signal": "training/enablement documents",
+        "evidence": "Redwood Systems builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling rollout playbooks and training/enablement documents for each new customer engagement.",
+        "source_url": "https://redwoodsystems.example.org",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Redwood Systems builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling rollout playbooks and training/enablement documents for each new customer engagement.",
+    "onboarding_model": "hybrid",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Fieldstone Robotics",
+    "records": [
+      {
+        "signal": "customer success runbooks",
+        "evidence": "Fieldstone Robotics builds B2B SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer success runbooks, implementation guides, customer onboarding and proposal documents for each new customer engagement.",
+        "source_url": "https://fieldstonerobotics.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "implementation guides",
+        "evidence": "Fieldstone Robotics builds B2B SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer success runbooks, implementation guides, customer onboarding and proposal documents for each new customer engagement.",
+        "source_url": "https://fieldstonerobotics.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "customer onboarding",
+        "evidence": "Fieldstone Robotics builds B2B SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer success runbooks, implementation guides, customer onboarding and proposal documents for each new customer engagement.",
+        "source_url": "https://fieldstonerobotics.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "proposal documents",
+        "evidence": "Fieldstone Robotics builds B2B SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer success runbooks, implementation guides, customer onboarding and proposal documents for each new customer engagement.",
+        "source_url": "https://fieldstonerobotics.example.net",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Fieldstone Robotics builds B2B SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer success runbooks, implementation guides, customer onboarding and proposal documents for each new customer engagement.",
+    "onboarding_model": "hybrid",
+    "documentation_intensity": "high"
+  },
+  {
+    "company_name": "Redwood Fintech",
+    "records": [
+      {
+        "signal": "configuration documents",
+        "evidence": "Redwood Fintech is a compliance SaaS company serving 200-500-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces configuration documents, client-specific process documentation and training/enablement documents for new accounts.",
+        "source_url": "https://redwoodfintech.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "client-specific process documentation",
+        "evidence": "Redwood Fintech is a compliance SaaS company serving 200-500-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces configuration documents, client-specific process documentation and training/enablement documents for new accounts.",
+        "source_url": "https://redwoodfintech.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "training/enablement documents",
+        "evidence": "Redwood Fintech is a compliance SaaS company serving 200-500-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces configuration documents, client-specific process documentation and training/enablement documents for new accounts.",
+        "source_url": "https://redwoodfintech.example.net",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Redwood Fintech is a compliance SaaS company serving 200-500-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces configuration documents, client-specific process documentation and training/enablement documents for new accounts.",
+    "onboarding_model": "high-touch",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Vantage Robotics",
+    "records": [
+      {
+        "signal": "rollout playbooks",
+        "evidence": "Vantage Robotics is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces rollout playbooks and client-specific process documentation for new accounts.",
+        "source_url": "https://vantagerobotics.example.org",
+        "confidence": "high"
+      },
+      {
+        "signal": "client-specific process documentation",
+        "evidence": "Vantage Robotics is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces rollout playbooks and client-specific process documentation for new accounts.",
+        "source_url": "https://vantagerobotics.example.org",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Vantage Robotics is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces rollout playbooks and client-specific process documentation for new accounts.",
+    "onboarding_model": "high-touch",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Craterock Systems",
+    "records": [
+      {
+        "signal": "configuration documents",
+        "evidence": "Craterock Systems is a fintech SaaS company serving 50-200-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces configuration documents, professional services statements of work, training/enablement documents and proposal documents for new accounts.",
+        "source_url": "https://craterocksystems.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "professional services statements of work",
+        "evidence": "Craterock Systems is a fintech SaaS company serving 50-200-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces configuration documents, professional services statements of work, training/enablement documents and proposal documents for new accounts.",
+        "source_url": "https://craterocksystems.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "training/enablement documents",
+        "evidence": "Craterock Systems is a fintech SaaS company serving 50-200-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces configuration documents, professional services statements of work, training/enablement documents and proposal documents for new accounts.",
+        "source_url": "https://craterocksystems.example.net",
+        "confidence": "high"
+      },
+      {
+        "signal": "proposal documents",
+        "evidence": "Craterock Systems is a fintech SaaS company serving 50-200-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces configuration documents, professional services statements of work, training/enablement documents and proposal documents for new accounts.",
+        "source_url": "https://craterocksystems.example.net",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Craterock Systems is a fintech SaaS company serving 50-200-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces configuration documents, professional services statements of work, training/enablement documents and proposal documents for new accounts.",
+    "onboarding_model": "self-serve-plus-CS",
+    "documentation_intensity": "high"
+  },
+  {
+    "company_name": "Fieldstone Compliance",
+    "records": [
+      {
+        "signal": "configuration documents",
+        "evidence": "Fieldstone Compliance is a fintech SaaS company serving 200-500-employee customers, with a hybrid implementation model and a customer success team that repeatedly produces configuration documents and rollout playbooks for new accounts.",
+        "source_url": "https://fieldstonecompliance.example.co",
+        "confidence": "high"
+      },
+      {
+        "signal": "rollout playbooks",
+        "evidence": "Fieldstone Compliance is a fintech SaaS company serving 200-500-employee customers, with a hybrid implementation model and a customer success team that repeatedly produces configuration documents and rollout playbooks for new accounts.",
+        "source_url": "https://fieldstonecompliance.example.co",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Fieldstone Compliance is a fintech SaaS company serving 200-500-employee customers, with a hybrid implementation model and a customer success team that repeatedly produces configuration documents and rollout playbooks for new accounts.",
+    "onboarding_model": "hybrid",
+    "documentation_intensity": "medium"
+  },
+  {
+    "company_name": "Cobalt Ops",
+    "records": [
+      {
+        "signal": "client-specific process documentation",
+        "evidence": "Cobalt Ops builds workflow-automation SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, proposal documents and configuration documents for each new customer engagement.",
+        "source_url": "https://cobaltops.example.org",
+        "confidence": "high"
+      },
+      {
+        "signal": "proposal documents",
+        "evidence": "Cobalt Ops builds workflow-automation SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, proposal documents and configuration documents for each new customer engagement.",
+        "source_url": "https://cobaltops.example.org",
+        "confidence": "high"
+      },
+      {
+        "signal": "configuration documents",
+        "evidence": "Cobalt Ops builds workflow-automation SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, proposal documents and configuration documents for each new customer engagement.",
+        "source_url": "https://cobaltops.example.org",
+        "confidence": "high"
+      }
+    ],
+    "company_description": "Cobalt Ops builds workflow-automation SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, proposal documents and configuration documents for each new customer engagement.",
+    "onboarding_model": "high-touch",
+    "documentation_intensity": "medium"
+  }
+]

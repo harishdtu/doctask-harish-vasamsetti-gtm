@@ -1,0 +1,3 @@
+# growth_machine uses only the Python standard library (3.10+).
+# No paid APIs, no backend, no required credentials.
+# This file is intentionally near-empty -- listed for reproducibility.

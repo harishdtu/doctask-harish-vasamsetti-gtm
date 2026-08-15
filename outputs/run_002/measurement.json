@@ -1,0 +1,25 @@
+{
+  "batch_id": "run_002",
+  "funnel": {
+    "targets_discovered": 15,
+    "targets_qualified": 11,
+    "targets_enriched": 11,
+    "drafts_generated": 11,
+    "drafts_passed_qa": 11,
+    "drafts_rejected": 0
+  },
+  "rates": {
+    "qualification_rate": 0.7333,
+    "enrichment_success_rate": 1.0,
+    "qa_pass_rate": 1.0
+  },
+  "averages": {
+    "average_icp_score": 85.0,
+    "average_personalization_score": 10.0,
+    "average_evidence_score": 9.64
+  },
+  "runtime_seconds": 0.0033,
+  "errors": [],
+  "outreach_sent": false,
+  "note": "No outreach was sent. Therefore reply rate, meeting rate, and conversion rate are not measured. See docs/measurement.md for what these would be once a human uses the machine in a real, human-run campaign."
+}

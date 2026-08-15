@@ -1,0 +1,441 @@
+[
+  {
+    "target": {
+      "company_name": "Vantage Cloud",
+      "website": "https://vantagecloud.example.com",
+      "company_type": "healthtech SaaS",
+      "employee_band": "50-200",
+      "customer_model": "B2B",
+      "implementation_motion": "white-glove",
+      "document_signals": [
+        "recurring QBR decks",
+        "proposal documents",
+        "customer onboarding"
+      ],
+      "public_description": "Vantage Cloud builds healthtech SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling recurring QBR decks, proposal documents and customer onboarding for each new customer engagement.",
+      "persona_role": "VP Customer Success",
+      "is_deliberately_off_icp": false,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Vantage Cloud",
+      "score": 95,
+      "qualified": true,
+      "reasons": [
+        "Recurring 'white-glove' onboarding/implementation motion",
+        "Customer-facing document workflow evidence (3 distinct signals)",
+        "Evidence of professional-services-style motion ('white-glove')",
+        "B2B SaaS company (healthtech SaaS)",
+        "Medium-sized/growing organization (50-200 employees)",
+        "Multiple distinct customer-facing document workflows (3)"
+      ],
+      "disqualification_reasons": [],
+      "evidence": [
+        "Vantage Cloud builds healthtech SaaS tools and runs a white-glove onboarding motion; its professional services team is described as handling recurring QBR decks, proposal documents and customer onboarding for each new customer engagement."
+      ],
+      "source_url": "https://vantagecloud.example.com"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Clearwater Robotics",
+      "website": "https://clearwaterrobotics.example.net",
+      "company_type": "compliance SaaS",
+      "employee_band": "500-1000",
+      "customer_model": "B2B",
+      "implementation_motion": "self-serve-plus-CS",
+      "document_signals": [
+        "implementation guides",
+        "rollout playbooks",
+        "proposal documents",
+        "client-specific process documentation"
+      ],
+      "public_description": "Clearwater Robotics builds compliance SaaS tools and runs a self-serve-plus-CS onboarding motion; its professional services team is described as handling implementation guides, rollout playbooks, proposal documents and client-specific process documentation for each new customer engagement.",
+      "persona_role": "Director of Onboarding",
+      "is_deliberately_off_icp": false,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Clearwater Robotics",
+      "score": 85,
+      "qualified": true,
+      "reasons": [
+        "Recurring 'self-serve-plus-CS' onboarding/implementation motion",
+        "Customer-facing document workflow evidence (4 distinct signals)",
+        "B2B SaaS company (compliance SaaS)",
+        "Medium-sized/growing organization (500-1000 employees)",
+        "Multiple distinct customer-facing document workflows (4)",
+        "Documentation-heavy operation (4 workflows observed)"
+      ],
+      "disqualification_reasons": [
+        "No clear professional-services motion"
+      ],
+      "evidence": [
+        "Clearwater Robotics builds compliance SaaS tools and runs a self-serve-plus-CS onboarding motion; its professional services team is described as handling implementation guides, rollout playbooks, proposal documents and client-specific process documentation for each new customer engagement."
+      ],
+      "source_url": "https://clearwaterrobotics.example.net"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Redwood Systems",
+      "website": "https://redwoodsystems.example.org",
+      "company_type": "fintech SaaS",
+      "employee_band": "500-1000",
+      "customer_model": "B2B",
+      "implementation_motion": "hybrid",
+      "document_signals": [
+        "rollout playbooks",
+        "training/enablement documents"
+      ],
+      "public_description": "Redwood Systems builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling rollout playbooks and training/enablement documents for each new customer engagement.",
+      "persona_role": "Head of Professional Services",
+      "is_deliberately_off_icp": false,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Redwood Systems",
+      "score": 70,
+      "qualified": true,
+      "reasons": [
+        "Recurring 'hybrid' onboarding/implementation motion",
+        "Customer-facing document workflow evidence (2 distinct signals)",
+        "B2B SaaS company (fintech SaaS)",
+        "Medium-sized/growing organization (500-1000 employees)"
+      ],
+      "disqualification_reasons": [
+        "No clear professional-services motion"
+      ],
+      "evidence": [
+        "Redwood Systems builds fintech SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling rollout playbooks and training/enablement documents for each new customer engagement."
+      ],
+      "source_url": "https://redwoodsystems.example.org"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Fieldstone Robotics",
+      "website": "https://fieldstonerobotics.example.net",
+      "company_type": "B2B SaaS",
+      "employee_band": "50-200",
+      "customer_model": "B2B",
+      "implementation_motion": "hybrid",
+      "document_signals": [
+        "customer success runbooks",
+        "implementation guides",
+        "customer onboarding",
+        "proposal documents"
+      ],
+      "public_description": "Fieldstone Robotics builds B2B SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer success runbooks, implementation guides, customer onboarding and proposal documents for each new customer engagement.",
+      "persona_role": "Customer Operations Lead",
+      "is_deliberately_off_icp": false,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Fieldstone Robotics",
+      "score": 85,
+      "qualified": true,
+      "reasons": [
+        "Recurring 'hybrid' onboarding/implementation motion",
+        "Customer-facing document workflow evidence (4 distinct signals)",
+        "B2B SaaS company (B2B SaaS)",
+        "Medium-sized/growing organization (50-200 employees)",
+        "Multiple distinct customer-facing document workflows (4)",
+        "Documentation-heavy operation (4 workflows observed)"
+      ],
+      "disqualification_reasons": [
+        "No clear professional-services motion"
+      ],
+      "evidence": [
+        "Fieldstone Robotics builds B2B SaaS tools and runs a hybrid onboarding motion; its professional services team is described as handling customer success runbooks, implementation guides, customer onboarding and proposal documents for each new customer engagement."
+      ],
+      "source_url": "https://fieldstonerobotics.example.net"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Redwood Fintech",
+      "website": "https://redwoodfintech.example.net",
+      "company_type": "compliance SaaS",
+      "employee_band": "200-500",
+      "customer_model": "B2B",
+      "implementation_motion": "high-touch",
+      "document_signals": [
+        "configuration documents",
+        "client-specific process documentation",
+        "training/enablement documents"
+      ],
+      "public_description": "Redwood Fintech is a compliance SaaS company serving 200-500-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces configuration documents, client-specific process documentation and training/enablement documents for new accounts.",
+      "persona_role": "Director of Onboarding",
+      "is_deliberately_off_icp": false,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Redwood Fintech",
+      "score": 95,
+      "qualified": true,
+      "reasons": [
+        "Recurring 'high-touch' onboarding/implementation motion",
+        "Customer-facing document workflow evidence (3 distinct signals)",
+        "Evidence of professional-services-style motion ('high-touch')",
+        "B2B SaaS company (compliance SaaS)",
+        "Medium-sized/growing organization (200-500 employees)",
+        "Multiple distinct customer-facing document workflows (3)"
+      ],
+      "disqualification_reasons": [],
+      "evidence": [
+        "Redwood Fintech is a compliance SaaS company serving 200-500-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces configuration documents, client-specific process documentation and training/enablement documents for new accounts."
+      ],
+      "source_url": "https://redwoodfintech.example.net"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Silverlane Energy",
+      "website": "https://silverlaneenergy.example.co",
+      "company_type": "fintech SaaS",
+      "employee_band": "50-200",
+      "customer_model": "B2B",
+      "implementation_motion": "unknown",
+      "document_signals": [],
+      "public_description": "Silverlane Energy is a fintech SaaS company with a self-serve signup flow and no public evidence of a dedicated implementation or customer success function.",
+      "persona_role": "Customer Operations Lead",
+      "is_deliberately_off_icp": true,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Silverlane Energy",
+      "score": 25,
+      "qualified": false,
+      "reasons": [
+        "B2B SaaS company (fintech SaaS)",
+        "Medium-sized/growing organization (50-200 employees)"
+      ],
+      "disqualification_reasons": [
+        "No recurring onboarding/implementation motion observed",
+        "No document-workflow signals observed",
+        "No clear professional-services motion"
+      ],
+      "evidence": [
+        "Unknown / not observed"
+      ],
+      "source_url": "https://silverlaneenergy.example.co"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Vantage Robotics",
+      "website": "https://vantagerobotics.example.org",
+      "company_type": "compliance SaaS",
+      "employee_band": "11-50",
+      "customer_model": "B2B",
+      "implementation_motion": "high-touch",
+      "document_signals": [
+        "rollout playbooks",
+        "client-specific process documentation"
+      ],
+      "public_description": "Vantage Robotics is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces rollout playbooks and client-specific process documentation for new accounts.",
+      "persona_role": "Customer Operations Lead",
+      "is_deliberately_off_icp": false,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Vantage Robotics",
+      "score": 75,
+      "qualified": true,
+      "reasons": [
+        "Recurring 'high-touch' onboarding/implementation motion",
+        "Customer-facing document workflow evidence (2 distinct signals)",
+        "Evidence of professional-services-style motion ('high-touch')",
+        "B2B SaaS company (compliance SaaS)"
+      ],
+      "disqualification_reasons": [
+        "Employee band (11-50) outside target growth range"
+      ],
+      "evidence": [
+        "Vantage Robotics is a compliance SaaS company serving 11-50-employee customers, with a high-touch implementation model and a customer success team that repeatedly produces rollout playbooks and client-specific process documentation for new accounts."
+      ],
+      "source_url": "https://vantagerobotics.example.org"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Bluepeak Cloud",
+      "website": "https://bluepeakcloud.example.net",
+      "company_type": "B2B SaaS",
+      "employee_band": "200-500",
+      "customer_model": "B2B",
+      "implementation_motion": "product-led-growth",
+      "document_signals": [],
+      "public_description": "Bluepeak Cloud appears to be a purely transactional product with no recurring customer-facing document workflow visible publicly.",
+      "persona_role": "Head of Professional Services",
+      "is_deliberately_off_icp": true,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Bluepeak Cloud",
+      "score": 25,
+      "qualified": false,
+      "reasons": [
+        "B2B SaaS company (B2B SaaS)",
+        "Medium-sized/growing organization (200-500 employees)"
+      ],
+      "disqualification_reasons": [
+        "No recurring onboarding/implementation motion observed",
+        "No document-workflow signals observed",
+        "No clear professional-services motion"
+      ],
+      "evidence": [
+        "Unknown / not observed"
+      ],
+      "source_url": "https://bluepeakcloud.example.net"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Craterock Systems",
+      "website": "https://craterocksystems.example.net",
+      "company_type": "fintech SaaS",
+      "employee_band": "50-200",
+      "customer_model": "B2B",
+      "implementation_motion": "self-serve-plus-CS",
+      "document_signals": [
+        "configuration documents",
+        "professional services statements of work",
+        "training/enablement documents",
+        "proposal documents"
+      ],
+      "public_description": "Craterock Systems is a fintech SaaS company serving 50-200-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces configuration documents, professional services statements of work, training/enablement documents and proposal documents for new accounts.",
+      "persona_role": "VP Customer Success",
+      "is_deliberately_off_icp": false,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Craterock Systems",
+      "score": 85,
+      "qualified": true,
+      "reasons": [
+        "Recurring 'self-serve-plus-CS' onboarding/implementation motion",
+        "Customer-facing document workflow evidence (4 distinct signals)",
+        "B2B SaaS company (fintech SaaS)",
+        "Medium-sized/growing organization (50-200 employees)",
+        "Multiple distinct customer-facing document workflows (4)",
+        "Documentation-heavy operation (4 workflows observed)"
+      ],
+      "disqualification_reasons": [
+        "No clear professional-services motion"
+      ],
+      "evidence": [
+        "Craterock Systems is a fintech SaaS company serving 50-200-employee customers, with a self-serve-plus-CS implementation model and a customer success team that repeatedly produces configuration documents, professional services statements of work, training/enablement documents and proposal documents for new accounts."
+      ],
+      "source_url": "https://craterocksystems.example.net"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Fieldstone Compliance",
+      "website": "https://fieldstonecompliance.example.co",
+      "company_type": "fintech SaaS",
+      "employee_band": "200-500",
+      "customer_model": "B2B",
+      "implementation_motion": "hybrid",
+      "document_signals": [
+        "configuration documents",
+        "rollout playbooks"
+      ],
+      "public_description": "Fieldstone Compliance is a fintech SaaS company serving 200-500-employee customers, with a hybrid implementation model and a customer success team that repeatedly produces configuration documents and rollout playbooks for new accounts.",
+      "persona_role": "Head of Professional Services",
+      "is_deliberately_off_icp": false,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Fieldstone Compliance",
+      "score": 70,
+      "qualified": true,
+      "reasons": [
+        "Recurring 'hybrid' onboarding/implementation motion",
+        "Customer-facing document workflow evidence (2 distinct signals)",
+        "B2B SaaS company (fintech SaaS)",
+        "Medium-sized/growing organization (200-500 employees)"
+      ],
+      "disqualification_reasons": [
+        "No clear professional-services motion"
+      ],
+      "evidence": [
+        "Fieldstone Compliance is a fintech SaaS company serving 200-500-employee customers, with a hybrid implementation model and a customer success team that repeatedly produces configuration documents and rollout playbooks for new accounts."
+      ],
+      "source_url": "https://fieldstonecompliance.example.co"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Redwood Compliance",
+      "website": "https://redwoodcompliance.example.co",
+      "company_type": "workflow-automation SaaS",
+      "employee_band": "50-200",
+      "customer_model": "B2B",
+      "implementation_motion": "unknown",
+      "document_signals": [],
+      "public_description": "Redwood Compliance appears to be a purely transactional product with no recurring customer-facing document workflow visible publicly.",
+      "persona_role": "VP Customer Success",
+      "is_deliberately_off_icp": true,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Redwood Compliance",
+      "score": 25,
+      "qualified": false,
+      "reasons": [
+        "B2B SaaS company (workflow-automation SaaS)",
+        "Medium-sized/growing organization (50-200 employees)"
+      ],
+      "disqualification_reasons": [
+        "No recurring onboarding/implementation motion observed",
+        "No document-workflow signals observed",
+        "No clear professional-services motion"
+      ],
+      "evidence": [
+        "Unknown / not observed"
+      ],
+      "source_url": "https://redwoodcompliance.example.co"
+    }
+  },
+  {
+    "target": {
+      "company_name": "Cobalt Ops",
+      "website": "https://cobaltops.example.org",
+      "company_type": "workflow-automation SaaS",
+      "employee_band": "11-50",
+      "customer_model": "B2B",
+      "implementation_motion": "high-touch",
+      "document_signals": [
+        "client-specific process documentation",
+        "proposal documents",
+        "configuration documents"
+      ],
+      "public_description": "Cobalt Ops builds workflow-automation SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, proposal documents and configuration documents for each new customer engagement.",
+      "persona_role": "VP Customer Success",
+      "is_deliberately_off_icp": false,
+      "source": "synthetic"
+    },
+    "icp": {
+      "company_name": "Cobalt Ops",
+      "score": 85,
+      "qualified": true,
+      "reasons": [
+        "Recurring 'high-touch' onboarding/implementation motion",
+        "Customer-facing document workflow evidence (3 distinct signals)",
+        "Evidence of professional-services-style motion ('high-touch')",
+        "B2B SaaS company (workflow-automation SaaS)",
+        "Multiple distinct customer-facing document workflows (3)"
+      ],
+      "disqualification_reasons": [
+        "Employee band (11-50) outside target growth range"
+      ],
+      "evidence": [
+        "Cobalt Ops builds workflow-automation SaaS tools and runs a high-touch onboarding motion; its professional services team is described as handling client-specific process documentation, proposal documents and configuration documents for each new customer engagement."
+      ],
+      "source_url": "https://cobaltops.example.org"
+    }
+  }
+]
