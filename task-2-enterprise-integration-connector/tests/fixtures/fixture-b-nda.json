@@ -1,0 +1,8 @@
+{
+  "description": "Synthetic fixture B -- an unrelated business document type (NDA, not invoice-like). Used alongside fixture A to prove the connector generalizes across document shapes rather than being hard-coded to one demo case.",
+  "document_html": "<div data-chunk-id=\"nda-1\"><h1>Mutual Non-Disclosure Agreement</h1></div><div data-chunk-id=\"nda-2\"><p>This Agreement is entered into between Bluepeak Systems (\"Disclosing Party\") and Cratrock Labs (\"Receiving Party\").</p></div><div data-chunk-id=\"nda-3\"><h2>1. Confidential Information</h2><p>Confidential Information means any non-public business, technical, or financial information disclosed by either party.</p></div><div data-chunk-id=\"nda-4\"><h2>2. Term</h2><p>This Agreement remains in effect for two (2) years from the Effective Date.</p></div>",
+  "session_id": "fixture-b-nda-session",
+  "instruction": "Extend the term from two years to three years and add a governing-law clause for Delaware.",
+  "expected_operation": "edit",
+  "template_name": "Mutual NDA Template"
+}

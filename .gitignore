@@ -4,7 +4,13 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
-outputs/temp/
 .pytest_cache/
 *.egg-info/
 .DS_Store
+node_modules/
+.vscode/
+*.log
+*.sqlite3
+.idea/
+# Keep task outputs (evidence) - do NOT ignore outputs/run_* or outputs/latest-run
+# outputs/

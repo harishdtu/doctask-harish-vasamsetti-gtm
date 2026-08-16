@@ -1,0 +1,8 @@
+{
+  "description": "Synthetic fixture A -- an invoice/contract-style document. Used to prove the connector's operations are not hard-coded to a single demo document (see tests/second-run.test.js).",
+  "document_html": "<div data-chunk-id=\"inv-1\"><h1>Invoice #INV-2026-0417</h1></div><div data-chunk-id=\"inv-2\"><p>Bill To: Northstar Analytics, 400 Example Ave, Springfield</p></div><div data-chunk-id=\"inv-3\"><table><tr><th>Item</th><th>Qty</th><th>Rate</th><th>Amount</th></tr><tr><td>Consulting hours</td><td>40</td><td>$150</td><td>$6,000</td></tr></table></div><div data-chunk-id=\"inv-4\"><p>Total Due: $6,000. Payment terms: Net 30.</p></div>",
+  "session_id": "fixture-a-invoice-session",
+  "instruction": "Add a late-payment penalty clause of 1.5% per month to the payment terms.",
+  "expected_operation": "edit",
+  "template_name": "Standard Consulting Invoice"
+}
