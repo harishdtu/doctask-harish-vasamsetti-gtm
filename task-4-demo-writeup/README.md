@@ -1,4 +1,4 @@
-SuperDocs Round 2 — GTM Task 4
+﻿SuperDocs Round 2 â€” GTM Task 4
 
 What I Built
 
@@ -6,7 +6,7 @@ Three connected pieces: a twice-run outbound growth machine (Task 1), an enterpr
 
 1. Growth Machine
 
-Pipeline: synthetic target generation → deterministic ICP scoring → qualification → enrichment → persona mapping → personalization → draft generation → a QA/safety gate → measurement. Every stage writes to disk, so the run is auditable, not just narrated. Run twice, different batch sizes, zero manual changes in between:
+Pipeline: synthetic target generation â†’ deterministic ICP scoring â†’ qualification â†’ enrichment â†’ persona mapping â†’ personalization â†’ draft generation â†’ a QA/safety gate â†’ measurement. Every stage writes to disk, so the run is auditable, not just narrated. Run twice, different batch sizes, zero manual changes in between:
 
 Run
 
@@ -38,7 +38,7 @@ run_002
 
 11 / 11
 
-Company overlap between the two runs: zero, guaranteed by construction (a deterministic name-space partition), not just observed. Every draft is labeled SIMULATION / DRAFT — NOT SENT; nothing was ever sent, and there's no code path that could send anything.
+Company overlap between the two runs: zero, guaranteed by construction (a deterministic name-space partition), not just observed. Every draft is labeled SIMULATION / DRAFT â€” NOT SENT; nothing was ever sent, and there's no code path that could send anything.
 
 2. Assigned Enterprise Integration Build
 
@@ -46,27 +46,27 @@ My Task 2 card: model SuperDocs' document actions (generate, edit, approve, poll
 
 3. Use Cases & Buyers
 
-9 researched use cases, each mapped to real, named companies, a specific buyer role (never an individual), and a verified professional community where that buyer participates — 45 source URLs total, all public. One additional market (developer-tools API documentation) was investigated and explicitly rejected: the evidence pointed to a Markdown/docs-as-code workflow, not the Word-centric editing SuperDocs targets. Confidence is graded per use case rather than inflated uniformly — two use cases carry an explicit caveat that the space is already served by point-solution competitors or that the best-evidenced company is too large to be a plausible buyer. Every claim is tagged FACT, INFERENCE, or UNKNOWN.
+10 researched use cases, each mapped to real, named companies, a specific buyer role (never an individual), and a verified professional community where that buyer participates â€” All sources are public. One additional market (developer-tools API documentation) was investigated and explicitly rejected: the evidence pointed to a Markdown/docs-as-code workflow, not the Word-centric editing SuperDocs targets. Confidence is graded per use case rather than inflated uniformly â€” two use cases carry an explicit caveat that the space is already served by point-solution competitors or that the best-evidenced company is too large to be a plausible buyer. Every claim is tagged FACT, INFERENCE, or UNKNOWN.
 
 4. Decisions and What I Cut
 
-Audience: Implementation/CS leads at mid-size, high-touch B2B SaaS — narrower than "all SaaS companies" on purpose, so the scoring model has to discriminate rather than approve everything.
+Audience: Implementation/CS leads at mid-size, high-touch B2B SaaS â€” narrower than "all SaaS companies" on purpose, so the scoring model has to discriminate rather than approve everything.
 
-Channel: Outbound, not content or community — documented reasoning: "one channel built properly beats three sketched," and this buyer reads a targeted email but doesn't browse a content feed.
+Channel: Outbound, not content or community â€” documented reasoning: "one channel built properly beats three sketched," and this buyer reads a targeted email but doesn't browse a content feed.
 
-Safety gates: DRY_RUN/SEND_MESSAGES are hard-coded constants, not flags — making "this can never send anything" a property of the code, not a setting someone could flip.
+Safety gates: DRY_RUN/SEND_MESSAGES are hard-coded constants, not flags â€” making "this can never send anything" a property of the code, not a setting someone could flip.
 
 Synthetic targets: Default mode ships fully synthetic; public-company mode exists but ships empty, since doing it well (a human reading each company's real pages) was more time than a same-day build could spend alongside two full runs, tests, and docs.
 
-One platform, not four (Task 2): Inference, not from the original assignment — I chose one thoroughly-built, partially-verified adapter over four I couldn't verify at all in this environment.
+One platform, not four (Task 2): Inference, not from the original assignment â€” I chose one thoroughly-built, partially-verified adapter over four I couldn't verify at all in this environment.
 
 5. Measurement
 
-Observed: qualification rate held 73–75% across two different batch sizes — the scorer discriminating, not rubber-stamping. Personalization averaged 10/10, evidence 9.1–9.6/10, QA pass 100%, both runs. Nothing was sent, so reply/meeting/conversion rate were not measured — stated plainly, not estimated.
+Observed: qualification rate held 73â€“75% across two different batch sizes â€” the scorer discriminating, not rubber-stamping. Personalization averaged 10/10, evidence 9.1â€“9.6/10, QA pass 100%, both runs. Nothing was sent, so reply/meeting/conversion rate were not measured â€” stated plainly, not estimated.
 
 Next to measure: reply rate per ICP-score band on a real campaign, to check whether the scoring weights (currently a starting hypothesis) actually predict engagement; QA rejection rate on messier real public-company data, since 100% pass on synthetic inputs is an artifact of clean data.
 
-Where it leaks / what breaks at 10x: not qualification — discovery. Public-mode enrichment is entirely manual today; that's what breaks first at scale, followed by review burden (reading every QA-passed draft stops being realistic well before 10x). Human review stays required at ICP definition, final-message approval, and anywhere real outreach would occur.
+Where it leaks / what breaks at 10x: not qualification â€” discovery. Public-mode enrichment is entirely manual today; that's what breaks first at scale, followed by review burden (reading every QA-passed draft stops being realistic well before 10x). Human review stays required at ICP definition, final-message approval, and anywhere real outreach would occur.
 
 6. Limitations and Next Steps
 
@@ -76,4 +76,4 @@ Next: (1) run public-mode enrichment against a real, hand-curated list and see i
 
 Final Takeaway
 
-A repeatable system, a measurable funnel, a quality gate that actually rejects things, and human judgment kept exactly where it matters — never automated away for a better-looking number. Every claim above traces to a file in the repository or a test that ran.
+A repeatable system, a measurable funnel, a quality gate that actually rejects things, and human judgment kept exactly where it matters â€” never automated away for a better-looking number. Every claim above traces to a file in the repository or a test that ran.
