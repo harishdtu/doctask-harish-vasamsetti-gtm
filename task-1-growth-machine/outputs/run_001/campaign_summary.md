@@ -18,7 +18,7 @@ Mode: synthetic
 - Average ICP score (qualified): 82.78
 - Average personalization score: 10.0/10
 - Average evidence score: 9.33/10
-- Runtime: 0.0027s
+- Runtime: 0.0107s
 - Errors: 0
 
 No outreach was sent. Reply/meeting/conversion rates are not measured -- see docs/measurement.md.
